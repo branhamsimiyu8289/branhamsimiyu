@@ -20,7 +20,7 @@ Current Projects
 
 2. smp-tracker: Daily performance tracker with ML-powered coaching
 
-3.api-dashboard: Multi-endpoint data dashboard with pandas reports
+3. api-dashboard: Multi-endpoint data dashboard with pandas reports
 
 4. health-application: Amerix's health practises in one track
 
