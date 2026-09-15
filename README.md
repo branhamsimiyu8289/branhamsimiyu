@@ -6,25 +6,25 @@ Building practical tools that solve actual problems. Based in Nairobi, Kenya.
 
 What I Build: 
 
-Data pipelines and automation scripts in Python
+-Data pipelines and automation scripts in Python
 
-REST APIs with FastAPI and Flask
+-REST APIs with FastAPI and Flask
 
-Machine learning tools for fitness and performance tracking
+-Machine learning tools for fitness and performance tracking
 
-Browser-based tools with JavaScript and the Fetch API
+-Browser-based tools with JavaScript and the Fetch API
 
 Current Projects
 
-dairy-records: Dairy dashboard for milk entry and admin management
+1. dairy-records: Dairy dashboard for milk entry and admin management
 
-smp-tracker: Daily performance tracker with ML-powered coaching
+2. smp-tracker: Daily performance tracker with ML-powered coaching
 
-api-dashboard: Multi-endpoint data dashboard with pandas reports
+3.api-dashboard: Multi-endpoint data dashboard with pandas reports
 
-health-application: Amerix's health practises in one track
+4. health-application: Amerix's health practises in one track
 
-browser-coach: Client-side AI coaching tool in JavaScript
+5. browser-coach: Client-side AI coaching tool in JavaScript
 
 Stack
 Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supabase
